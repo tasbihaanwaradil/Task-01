@@ -1,7 +1,6 @@
 # Task-01 
-INTERNSHIP PROGRAM Of Cognifyz Technologies
+Web Development  INTERNSHIP PROGRAM Of Cognifyz Technologies
 
-Web Development 
 Level 1 
 HTML/CSS:
 
