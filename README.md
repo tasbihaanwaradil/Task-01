@@ -1,7 +1,6 @@
-# Task-01 
+# Level 01 Task-01 
 Web Development  INTERNSHIP PROGRAM Of Cognifyz Technologies
 
-Level 1 
 HTML/CSS:
 
 Create a simple webpage with a
